@@ -62,6 +62,12 @@ using 24hr format from now onwards
 - 16:22:- 5-6 mag, left
 - 16:39:- 4-5 mag, left
 - 16:52:- 4-5 mag, bilateral(back)
+- 17:13:- 5-6 mag, left
+- 17:27:- 5-6 mag, left top
+- 18:01:- 5-7 mag, left
+- 18:21:- 6-7mag, left
+- 18:32:- 6-7 mag, left
+- 20:00;- 7 mag, left
 ---
 also add when it ended and felt in which part (left, right, bilateral)
 ---
