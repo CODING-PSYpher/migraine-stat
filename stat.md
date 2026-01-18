@@ -34,7 +34,7 @@
 - 04:40:- 5-6 mag
 - 05:12:- 4-5 mag
 - 06:21:- 4-5 mag
-- 7:11:- 3-5 mag
+- 07:11:- 3-5 mag
 - 10:47:- 4-5 mag
 
 --- 
@@ -48,8 +48,21 @@ using 24hr format from now onwards
 - 11:33:- 4-5 mag
 - 11:50:- 5-6 mag
 - 12:13:- 5-6 mag
-
-
-
-
+- 13:34:- 5-6 mag
+- 13:55:- 3-4 mag
+- 14:06:- 4-5 mag
+- 14:16:- 5-6 mag
+- 14:43:- 5-6 mag
+- 14:50:- 5-6 mag
+- 15:05:- 5-6 mag
+- 15:12:- 4-5 mag
+- 15:44:- 4-5 mag
+- 16:04:- 4-5 mag 
+- 16:18:- 3-4 mag, bilateral
+- 16:22:- 5-6 mag, left
+- 16:39:- 4-5 mag, left
+- 16:52:- 4-5 mag, bilateral(back)
+---
+also add when it ended and felt in which part (left, right, bilateral)
+---
 
