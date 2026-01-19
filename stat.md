@@ -71,4 +71,6 @@ using 24hr format from now onwards
 ---
 also add when it ended and felt in which part (left, right, bilateral)
 ---
-
+## 19/01/2026
+- 09:46:- 2-3 mag, bilateral back, end at 09:56
+- 11:08:- 3-4 mag, left back
