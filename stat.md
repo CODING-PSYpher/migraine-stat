@@ -75,8 +75,15 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 09:46:- 2-3 mag, bilateral back, end at 09:56
 - 11:08:- 3-4 mag, left back
 - 11:47:- 5-6 mag, bilateral whole
-
-
+- 12:28:- 6-7 mag, left near ear
+- 13:11:- 5-6 mag, bilateral leaning left
+- 13:29:- 4-5 mag, left
+- 13:41:- 3-4 mag, right
+- 13:46:- 5-6 mag, bilateral
+- 14:21:- 4-5 mag, bilateral
+- 14:31:- 5-6 mag, bilateral top
+- 14:35:- 6-7 mag, left near ear
+- 14:48:- 6-7 mag. bilateral
 
 
 
