@@ -97,7 +97,14 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 18:47:- 5-6 mag, left
 - 19:14:- 3-4 mag, left
 - 19:28:- 4-5 mag, left
+- 19:58:- 4-5 mag, left
+- 21:33:- 3-4 mag, right
+- 22:37:- 1-2 mag, left
+- 23:04:- 2-3 mag, left back
 
+
+## 20/01/2026
+- 10:09:- 3-4 mag, left
 
 
 
