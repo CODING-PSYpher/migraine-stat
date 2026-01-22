@@ -138,4 +138,14 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 15:37:- 5-6 mag, bilateral 
 - 15:59:- 4-5 mag, bilateral 
 - 16:41:- 4-5 mag, bilateral 
+- 17:08:- 6-7 mag, bilateral back
+- 20:39:- 5-6 mag, right
+- 21:36:- 4-5 mag, bilateral 
+- 22:05:- 4-5 mag bilateral 
+- 22:43:- 5-6 mag, right back
+- 22:13:- 3-4 mag, right back
+- 23:55:- 4-5 mag, bilateral right 
 
+## 22/01/2026
+- 09:45:- 4-5 mag, bilateral 
+- 11:12:- 3-4 mag, bilateral 
