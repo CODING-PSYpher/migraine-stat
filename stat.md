@@ -153,9 +153,9 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 13:00:- 5-6 mag,bilateral 
 - 14:00:- 4-5 mag, bilateral 
 - 15:00:- 2-3 mag, bilateral 
-- 16:00:-5-6 mag, bilateral 
+- 16:00:- 5-6 mag, bilateral 
 - 17:00:- 4-5 mag, bilateral 
-- 18:00:-3-4 mag, bilateral 
+- 18:00:- 3-4 mag, bilateral 
 - 19:00:- 4-5 mag, bilateral 
 - 19:50:- 5-6 mag, left
 - 20:00:- 3-4 mag, bilateral 
