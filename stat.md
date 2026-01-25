@@ -176,3 +176,17 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 13:00:- 4-5 mag, bilateral 
 - 14:00:- 4-5 mag, right 
 - 15:00:-  4-5mag, right 
+- 16:00:- 3-4 mag, bilateral 
+- 17:00:- 5-6 mag left
+- 18:00:- 4-5 mag, left
+- 19:00:- 2-3 mag, bilateral 
+- 20:00:- 4-5 mag, bilateral left
+- 21:00:- 2-3 mag, bilateral 
+- 22:00:- 5-6 mag, left
+
+## 24/01/2026
+- 06:00 to 13:00:- 4-5 mag maybe 6
+- 16:00 to 18:00:- 6-7 mag
+
+
+## 25/01/2026
