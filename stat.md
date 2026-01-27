@@ -205,13 +205,14 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 13:00:- 2-3 mag, bilateral
 - 14:00:- 4-5 mag, bilateral back
 - 15:00:- 4-5 mag, left 
-- 16:00:- 
-- 17:00:- 
-- 18:00:- 
-- 19:00:- 
-- 20:00:- 
-- 21:00:- 
-- 22:00:-
-- 23:00:-
-- 24:00:-
+- 16:00:- 4-5 mag, bilateral 
+- 17:00:-  2-3 mag, bilateral 
+- 18:00:- 5-6 mag, bilateral 
+- 19:00:- 5-6 mag, bilateral 
+- 20:00:- 6-7 mag, bilateral 
+
+
+## 27/01/2026
+- 10:00:- 4-5 mag, bilateral 
+- 11:00:- 5-6 mag, bilateral 
 
