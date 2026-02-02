@@ -266,5 +266,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 
 ## 01/02/2026
 - 12:00:- 2-3 mag, bilateral 
+- forgot to write but I have felt pain
 
-
+## 02/02/2026
+- 11:00:- 3-4 mag, left
