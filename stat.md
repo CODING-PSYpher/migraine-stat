@@ -270,3 +270,6 @@ also add when it ended and felt in which part (left, right, bilateral)
 
 ## 02/02/2026
 - 11:00:- 3-4 mag, left
+
+## 03/02/2016
+- felt pain but didn't log it
