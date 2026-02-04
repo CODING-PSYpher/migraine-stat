@@ -273,3 +273,14 @@ also add when it ended and felt in which part (left, right, bilateral)
 
 ## 03/02/2016
 - felt pain but didn't log it
+
+## 04/02/2026
+- 12:33:- 5-6 mag, left
+- 13:00:- 4-5 mag, bilateral 
+- 14:17:- 3-4 mag, left
+- 15:00:- 4-5 mag, bilateral
+- 16:00:- 3-4 mag, bilateral
+- 16:41:- 4-5 mag, right
+
+
+
