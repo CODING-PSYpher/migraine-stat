@@ -301,4 +301,6 @@ also add when it ended and felt in which part (left, right, bilateral)
 ## 07/02/2026
 - 09:00:- 4-5 mag, left
 - 11:00:- 3-4 mag, bilateral
-- 12:00:- 4-5 mag, right 
+- 12:00:- 4-5 mag, right
+- 12:31:- 5-6 mag, left back
+- 13:02:- 4-5 mag, bilateral
