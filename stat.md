@@ -336,10 +336,15 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 12:00:- 4-5 mag, left
 - 13:00:- 3-4 mag, bilateral
 - 13:32:- 4-5 mag, right
-- 14:00:- 
-- 15:00:-  
-- 16:00:- 
-- 17:00:-  
+- 14:00:- 4-5 mag, left 
+- 14:31:- 3-4 mag, left
+- 14:45:- 4-5 mag, right
+- 15:00:- 4-5 mag, right 
+- 15:46:- 4-5 mag, bilateral
+- 16:00:- 3-4 mag, bilateral
+- 16:22:- 4-5 mag, bilateral back
+- 16:29:- 5-6 mag, left
+- 17:00:- 4-5 mag, left
 - 18:00:- 
 - 19:00:- 
 - 20:00:- 
