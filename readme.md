@@ -175,7 +175,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 12:00:- 2-3 mag, bilateral
 - 13:00:- 4-5 mag, bilateral 
 - 14:00:- 4-5 mag, right 
-- 15:00:-  4-5mag, right 
+- 15:00:- 4-5mag, right 
 - 16:00:- 3-4 mag, bilateral 
 - 17:00:- 5-6 mag left
 - 18:00:- 4-5 mag, left
@@ -195,7 +195,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 12:09:- 3-4 mag, bilateral 
 - 13:00:- 4-5 mag, bilateral 
 - 14:00:- 4-5 mag, bilateral 
-- 15:00:-  4-5 mag, right
+- 15:00:- 4-5 mag, right
 
 
 ## 26/01/2026
@@ -206,7 +206,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 14:00:- 4-5 mag, bilateral back
 - 15:00:- 4-5 mag, left 
 - 16:00:- 4-5 mag, bilateral 
-- 17:00:-  2-3 mag, bilateral 
+- 17:00:- 2-3 mag, bilateral 
 - 18:00:- 5-6 mag, bilateral 
 - 19:00:- 5-6 mag, bilateral 
 - 20:00:- 6-7 mag, bilateral 
@@ -236,18 +236,18 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 12:00:- 2-3 mag, bilateral 
 - 13:00:- 4-5 mag, left
 - 14:00:- 4-5 mag, right 
-- 15:00:-  4-5 mag, bilateral 
+- 15:00:- 4-5 mag, bilateral 
 - 16:00:- 4-5 mag, left
-- 17:00:-  3-4 mag, left
+- 17:00:- 3-4 mag, left
 
 
 ## 30/01/2026
 - 12:00:- 4-5 mag, right 
-- 13:00:-  4-5 mag, left
+- 13:00:- 4-5 mag, left
 - 14:00:- 3-4 mag, bilateral 
-- 15:00:-  4-5 mag, bilateral 
-- 16:00:-  3-4 mag, bilateral 
-- 17:00:-  4-5 mag, right 
+- 15:00:- 4-5 mag, bilateral 
+- 16:00:- 3-4 mag, bilateral 
+- 17:00:- 4-5 mag, right 
 - 18:00:- 3-4 mag, bilateral 
 - 21:00:- 3-4mag, bilateral 
 - 22:00:- 2-3 mag, bilateral 
@@ -256,7 +256,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 
 ## 31/01/2026
 - 14:00:- 3-4 mag, bilateral 
-- 15:00:-  4-5 mag, bilateral 
+- 15:00:- 4-5 mag, bilateral 
 - 16:00:- 4-5 mag, left
 - 19:00:- 3-4 mag, bilateral 
 - 20:00:- 4-5 mag, bilateral 
@@ -281,7 +281,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 15:00:- 4-5 mag, bilateral
 - 16:00:- 3-4 mag, bilateral
 - 16:41:- 4-5 mag, right
-- 17:34:-  4-5 mag, left 
+- 17:34:- 4-5 mag, left 
 
 ## 05/02/2026
 - 11:00:- 4-5 mag, bilateral 
@@ -314,7 +314,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 14:00:- 4-5 mag, right
 - 15:00:- 3-4 mag, bilateral 
 - 16:00:- 6-7 mag, right
-- 17:00:-  5-6 mag, left 
+- 17:00:- 5-6 mag, left 
 - 19:00:- 3-4 mag, bilateral 
 
 ## 09/02/2026
@@ -359,7 +359,7 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 17:11:- 5-6 mag, left
 - 18:00:- 5-6 mag, left
 - 18:43:- 5-6 mag, left 
-- 19:00:-  5-6 mag, left
+- 19:00:- 5-6 mag, left
 - 21:00:- 4-5 mag bilateral 
 - 22:00:- 6-7 mag, left
 
@@ -378,42 +378,35 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 16:00:- 4-5 mag, bilateral 
 - 16:30:- 4-5 mag, bilateral
 - 17:00:- 4-5 mag, bilateral
-- 17:21:-  4-5 mag, left
+- 17:21:- 4-5 mag, left
 - 18:13:- 6-7 mag, right
-- 19:00:- 
-- 20:00:- 
 - 21:28:- 6-7 mag. Left
-- 22:00:-
 - 23:00:- 6-7 mag, left 
 - 23:41:- 6-7 mag, bilateral 
-- 24:00:-
 
 ## 13/02/2026
-- 09:00:-  5-6 mag, left
+- 09:00:- 5-6 mag, left
 - 09:26:- 6-7 mag, right
 - 10:41:- 3-4 mag, bilateral
-- 11:00:-  4-5 mag, left
+- 11:00:- 4-5 mag, left
 - 12:00:- 5-6 mag, left
 - 13:00:- 2-3 mag, bilateral 
 - 14:00:- 3-4 mag, bilateral
-- 15:00:-  3-4 mag, bilateral 
+- 15:00:- 3-4 mag, bilateral 
 - 16:00:- 5-6 mag, left
 - 16:38:- 5-6 mag, bilateral 
-- 17:00:-  4-5 mag, bilateral 
+- 17:00:- 4-5 mag, bilateral 
 - 18:00:- 5-6 mag, right
 - 18:25:- 6-7 mag, left
-- 19:00:-  3-4 mag, bilateral 
+- 19:00:- 3-4 mag, bilateral 
 - 20:28:- 6-7 mag, left
-- 21:00:- 
-- 22:00:-
-- 23:00:-
 - 24:00:- 5-6 mag, left
 
 ## 14/02/2026
 - 09:30:- 3-4 mag, bilateral 
 - 10:00:- 4-5 mag, bilateral 
 - 11:31:- 4-5 mag, left
-- 12:00:- 
+- 12:00:- 5-6 mag, right
 - 13:00:- 
 - 14:00:- 
 - 15:00:-  
