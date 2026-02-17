@@ -442,9 +442,9 @@ also add when it ended and felt in which part (left, right, bilateral)
 - 10:00:- 3-4 mag, bilateral 
 - 11:00:- 4-5 mag, bilateral 
 - 11:42:- 5-6 mag, bilateral 
-- 12:00:- 
-- 13:00:- 
-- 14:00:- 
+- 12:00:- 3-4 mag, bilateral 
+- 13:00:- 4-5 mag, bilateral 
+- 14:00:- 3-4 mag, bilateral 
 - 15:00:-  
 - 16:00:- 
 - 17:00:-  
