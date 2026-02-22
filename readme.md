@@ -465,32 +465,35 @@ also add when it ended and felt in which part (left, right, bilateral)
 
 ## 19/02/2026
 - 08:09:- 4-5 mag, right 
-- 09:00:- 
 - 10:00:- 4-5 mag, left 
-- 11:47:- 4-5 mag, right 
-- 12:00:- 
-- 13:00:- 
-- 14:00:- 
-- 15:00:-  
+- 11:47:- 4-5 mag, bilateral 
 - 16:00:- 5-6 mag, right
-- 17:00:-  
-- 18:00:- 
-- 19:00:- 
-- 20:00:- 
-- 21:00:- 
-- 22:00:-
-- 23:00:-
 - 24:00:- 6-7mag, right 
 
 
 ## 20/02/2026
-- 09:00:- 
 - 10:00:- 5-6 mag, left 
 - 11:00:- 4-5 mag, left 
 - 12:00:- 3-4 mag, bilateral 
 - 13:00:- 2-3 mag, bilateral 
 - 14:00:- 2-3 mag, bilateral 
-- 15:00:-  3-4 mag, bilateral 
-- 16:00:-  3-4 mag, bilateral 
+- 15:00:- 3-4 mag, bilateral 
+- 16:00:- 3-4 mag, bilateral 
+- 21:00:- 5-6 mag, left
+- 24:00:- 4-5mag, left 
+
+
+21/02/2026
+- 11:30:- 4-5 mag, left 
+- felt pain but couldn't log
+
+
+22/02/2026
+- 10:00:- 4-5 mag, bilateral 
+- 11:00:- 4-5 mqg, bilateral 
+- 12:00:- 5-6 mag, bilateral 
+- 13:00:- 5-6 mag, right 
+- 14:00:- 3-4 mag, bilateral 
+- 15:00:- 4-5 mag, bilateral 
+- 16:00:- 
 - 17:00:-  
-- 18
