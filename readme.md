@@ -28,6 +28,6 @@
 - 12:07:- 6-7 mag, right
 - 13:00:- 3-4 mag, bilateral
 - 14:00:- 6-7 mag, bilateral 
-- 15:00:-  
+- 15:00:- 6-7 mag, left 
 - 16:00:-
 
