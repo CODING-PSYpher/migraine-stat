@@ -62,3 +62,10 @@
 - 19:00:- 
 - 20:00:-
 
+
+## 28/02/2026
+- 12:12:- 3-4 mag, bilateral
+- 13:00:- 2-3 mag, bilateral
+- 14:00:- 5-6 mag, left
+- 15:00:- 3-4 mag bilateral
+- 15:41:- 2-3 mag, bilateral
