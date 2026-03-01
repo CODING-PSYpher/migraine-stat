@@ -77,8 +77,8 @@
 - 11:00:- 2-3 mag, bilateral 
 - 11:44:- 3-4 mag, bilateral 
 - 12:01:- 4-5 mag, bilateral
-- 13:00:- 
-- 14:00:- 
-- 15:00:-  
-- 16:00:- 
+- 13:00:- 4-5 mag, bilateral
+- 14:19:- 5-6 mag, left
+- 15:00:- 3-4 mag, bilateral
+- 15:42:- 3-4 mag, bilateral
 - 17:00:-  
