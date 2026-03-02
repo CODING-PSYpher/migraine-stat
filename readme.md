@@ -72,7 +72,7 @@
 - 22:00:- 5-6 mag, right 
 
 
-## 01/02/2026
+## 01/03/2026
 - 08:01:- 3-4 mag, left 
 - 11:00:- 2-3 mag, bilateral 
 - 11:44:- 3-4 mag, bilateral 
