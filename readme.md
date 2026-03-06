@@ -135,3 +135,4 @@
 - 13:00:- 4-5 mag, right
 - 14:00:- 4-5 mag, bilateral
 - 15:00:- 6-7 mag, left
+- 16:09:- 4-5 mag, right
