@@ -136,3 +136,28 @@
 - 14:00:- 4-5 mag, bilateral
 - 15:00:- 6-7 mag, left
 - 16:09:- 4-5 mag, right
+ 16:41:- 6-7 mag, left 
+- 17:20:-  5-6 mag, bilateral 
+- 18:00:- 2-3 mag, bilateral 
+- 19:00:- 5-6 mag,  left 
+- 20:00:- 4-5 mag, right 
+- 21:30:- 6-7 mag, right 
+- 22:00:- 4-5 mag, bilateral 
+- 23:00:- 4-5 mag, bilateral 
+- 24:00:-
+
+
+
+
+
+07/03/2026
+- 09:00:- 
+- 10:00:- 
+- 11:30:- 1-2 mag, bilateral 
+- 12:00:- 1-2 mag, bilateral 
+- 13:00:- 
+- 14:00:- 
+- 15:00:-  
+- 16:00:- 
+- 17:00:-  
+- 18:00:- 
