@@ -207,9 +207,9 @@
 
 ## 12/02/2026
 - 13:46:- 2-3 mag, bilateral
-
-
-
+- 14:39:- 1-2 mag, bilateral
+- 15:21:- 3-4 mag, bilateral
+- 16:24:- 3-4 mag, bilateral
 
 
 
