@@ -205,15 +205,16 @@
 - 22:00:-
 - 23:00:-
 
-## 12/02/2026
+## 12/03/2026
 - 13:46:- 2-3 mag, bilateral
 - 14:39:- 1-2 mag, bilateral
 - 15:21:- 3-4 mag, bilateral
 - 16:24:- 3-4 mag, bilateral
 
 
-
-
+## 13/03/2026
+- 10:30:- 3-4 mag, bilateral
+- 13:37:- 4-5 mag, left
 
 
 
