@@ -221,7 +221,12 @@
 - 16:55:- 4-5 mag, right
 
 
-
+## 14/03/2026
+- 13:00:- 4-5 mag, right
+- 14:25:- 2-3 mag, bilateral
+- 15:00:- 2-3 mag, bilateral
+- 16:19:- 2-3 mag, bilateral
+- 17:00:- 3-4 mag, bilateral
 
 
 
