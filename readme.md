@@ -246,6 +246,20 @@
 
 ## 17/03/2026
 - 10:45:- 2-3 mag, left
+- 11:44:- 2-3 mag, bilateral
+- 12:55:- 3-4 mag, right
+- 13:49:- 2-3 mag, bilateral
+- 14:44:- 3-4 mag, left
+- 15:55:- 2-3 mag, bilateral
+- 17:14:- 3-4 mag, right
+
+
+
+
+
+
+
+
 
 
 
