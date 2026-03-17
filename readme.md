@@ -240,7 +240,12 @@
 - 16:08:- 3-4 mag, bilateral
 
 
+## 16/03/2026
+- couldn't log but pain was there
 
+
+## 17/03/2026
+- 10:45:- 2-3 mag, left
 
 
 
