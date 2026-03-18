@@ -152,7 +152,7 @@
 - 12:00:- 1-2 mag, bilateral 
 - 15:00:- 2-3 mag, bilateral
 - 16:00:- 3-4 mag, bilateral
-- 17:30:-  3-4 mag, bilateral 
+- 17:30:- 3-4 mag, bilateral 
 
 
 ## 08/03/2026
@@ -198,18 +198,15 @@
 - 15:00:- 2-3 mag, biateral
 - 15:53:- 6-7 mag, bilateral
 - 17:00:- 3-4 mag, bilateral
-- 18:00:- 
-- 19:00:- 
-- 20:20:- 
-- 21:10:- 
-- 22:00:-
-- 23:00:-
+- 20:00:- 4-5 mag, left
+- 21:00:- 2-3 mag, bilateral
 
 ## 12/03/2026
 - 13:46:- 2-3 mag, bilateral
 - 14:39:- 1-2 mag, bilateral
 - 15:21:- 3-4 mag, bilateral
 - 16:24:- 3-4 mag, bilateral
+- 23:00:- 4-5 mag, right
 
 
 ## 13/03/2026
@@ -222,6 +219,7 @@
 
 
 ## 14/03/2026
+- 12:00:- 4-5 mag, left
 - 13:00:- 4-5 mag, right
 - 14:25:- 2-3 mag, bilateral
 - 15:00:- 2-3 mag, bilateral
@@ -241,6 +239,7 @@
 
 
 ## 16/03/2026
+- 14:30:- 4-5 mag, right
 - couldn't log but pain was there
 
 
@@ -254,6 +253,9 @@
 - 17:14:- 3-4 mag, right
 
 
+## 18/03/2026
+- 11:10:- 5-6 mag, left
+- 12:20:- 3-4 mag, bilateral
 
 
 
