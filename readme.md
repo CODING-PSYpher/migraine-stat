@@ -261,8 +261,12 @@
 - 15:30:- 3-4 mag, bilateral
 - 16:09:- 3-4 mag, bilateral
 - 17:00:- 5-6 mag, left
+- 22:03:- 5-6 mag, left
+- 23:00:- 6-7 mag, left
 
 
+## 19/03/2036
+- 12:00:- 3-4 mag, left
 
 
 
