@@ -275,12 +275,13 @@
 - 17:05:- 1-2 mag, right
 
 
-
-
-
-
-
-
+## 20/03/2026
+- 11:39:- 5-6 mag, bilateral
+- 12:24:- 5-6 mag, left
+- 13:08:- 4-5 mag, left
+- 14:32:- 3-4 mag, left
+- 15:24:- 2-3 mag, left
+- 16:56:- 3-4 mag, bilateral
 
 
 
