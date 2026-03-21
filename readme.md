@@ -288,9 +288,10 @@
 
 ## 21/03/2026
 - 12:42:- 4-5 mag, left
-
-
-
+- 14:00:- 2-3 mag, bilateral
+- 15:28:- 4-5 mag, bilateral
+- 16:15:- 2-3 mag, bilateral
+- 17:00:- 4-5 mag, left
 
 
 
