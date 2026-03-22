@@ -300,10 +300,11 @@
 - 04:00:- 4-5 mag, bilateral
 - 11:00:- 2-3 mag, bilateral
 - 12:21:- 3-4 mag, bilateral
-
-
-
-
+- 13:19:- 2-3 mag, bilateral
+- 14:10:- 2-3 mag, bilateral
+- 15:09:- 2-3 mag, bilateral
+- 16:03:- 2-3 mag, bilateral
+- 16:46:- 3-4 mag, bilateral
 
 
 
