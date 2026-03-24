@@ -326,6 +326,11 @@
 - 12:35:- 5-6 mag, bilateral
 - 13:29:- 3-4 mag, bilateral
 - 14:32:- 3-4 mag, bilateral
+- 15:55:- 3-4 mag, right
+
+
+
+
 
 
 
