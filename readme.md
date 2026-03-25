@@ -339,6 +339,11 @@
 - 01:00:- 5-6 mag, bilateral
 - 10:00:- 3-4 mag, bilateral
 - 11:50:- 3-4 mag, left
+- 12:34:- 4-5 mag, bilateral
+- 13:53:- 2-3 mag, bilateral
+- 14:51:- 2-3 mag, bilateral
+- 15:32:- 3-4 mag, right
+- 16:06:- 4-5 mag, bilateral
 
 
 
