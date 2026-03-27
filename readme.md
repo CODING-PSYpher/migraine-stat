@@ -356,6 +356,10 @@
 
 ## 27/03/2026
 - 12:17:- 2-3 mag, bilateral
+- 13:05:- 1-2 mag, bilateral
+- 14:21:- 4-5 mag, bilateral
+- 15:33:- 3-4 mag, bilateral
+- 16:09:- 3-4 mag, bilateral
 
 
 
