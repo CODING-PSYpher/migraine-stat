@@ -375,12 +375,22 @@
 ## 29/03/2026
 - Couldn't log
 
+
+
 ## 30/03/2026
 - couldn't log
 
 
+
 ## 31/03/2026
 - 13:25:- 4-5 mag, bilateral
+- couldn't log
+
+
+
+
+## 01/04/2026
+- couldn't log
 
 
 
